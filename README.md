@@ -8,10 +8,10 @@ Case for develop: we asume that are a company that wants to compete with Renfe, 
 
 ## Workflow
 
-.I worked in `Visual Studio Code` and inside `Jupiter notebooks` 
-.I used `Git`
-.Libraries `Numpy`, `Pandas` , `Seaborn`
-.I show to report in `Power BI`
+- I worked in `Visual Studio Code` and inside `Jupiter notebooks` 
+- I used `Git`
+- Libraries `Numpy`, `Pandas` , `Seaborn`
+- I show to report in `Power BI`
 
 ## Resume
 
