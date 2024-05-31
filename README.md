@@ -20,5 +20,7 @@ After boarding nulls, duplicates and grouping data and before starting to stanta
 
 ### Overview
 
+Show a resume of information
+
 ![Alt text](Report-BI/Portada.png)
 
